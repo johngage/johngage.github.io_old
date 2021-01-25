@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A1 on TLPF import</title>
+    <link>https://johngage.github.io/tags/a1/</link>
+    <description>Recent content in A1 on TLPF import</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 11:55:01 -0800</lastBuildDate><atom:link href="https://johngage.github.io/tags/a1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 1.1</title>
+      <link>https://johngage.github.io/blog/post-1.1/</link>
+      <pubDate>Sun, 24 Jan 2021 11:55:01 -0800</pubDate>
+      
+      <guid>https://johngage.github.io/blog/post-1.1/</guid>
+      <description>On the way to importing remote TLPF into Hugo. First viewing on localhost:1313.
+Trying to figure out where to put tags. &amp;ldquo;trytag&amp;rdquo;
+Need to move images into static folder. Link them somehow. Make modifications for tracking tags. But everything vanishes. That&amp;rsquo;s fixed</description>
+    </item>
+    
+    <item>
+      <title>Post 1.2</title>
+      <link>https://johngage.github.io/blog/post-1.2/</link>
+      <pubDate>Sun, 24 Jan 2021 11:55:01 -0800</pubDate>
+      
+      <guid>https://johngage.github.io/blog/post-1.2/</guid>
+      <description>Where are we? Now change and display</description>
+    </item>
+    
+  </channel>
+</rss>
